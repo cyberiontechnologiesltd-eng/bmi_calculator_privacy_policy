@@ -2,7 +2,7 @@ Privacy Policy
 
 BMI Calculator
 
-Effective date: [Insert Date]
+Effective date: 15/08/2024
 
 BMI Calculator respects your privacy. This Privacy Policy explains how our application handles information.
 
